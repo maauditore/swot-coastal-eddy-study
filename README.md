@@ -3,7 +3,7 @@
 
 ## Description
 
-This repository was used to produce the results of my paper on a coastal eddy study near the Algerian Bassin thanks to SWOT data.
+This repository was used to produce the results of my paper on the alongshore propagation of a coastal eddy in the Algerian Basin thanks to SWOT data.
 
 
 ## Input data
