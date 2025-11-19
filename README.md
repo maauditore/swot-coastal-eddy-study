@@ -3,7 +3,10 @@
 
 ## Description
 
-This repository was used to produce the results of my paper on the alongshore propagation of a coastal eddy in the Algerian Basin thanks to SWOT data.
+This repository contains the codes used to produce the results of the article "Detailed description of the alongshore propagation of a
+coastal eddy with SWOT high-resolution altimetry".
+
+briefly explain the purpose of each script
 
 
 ## Input data
@@ -21,8 +24,5 @@ All the datasets used in this study are publicly accessible and listed here.
 - Mediterranean Sea, Bio-Geo-Chemical, L3, daily Satellite Observations: https://doi.org/10.48670/moi-00297
 
 
-## How to reproduce my work
-
-## License
 
 
