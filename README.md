@@ -6,7 +6,20 @@
 This repository contains the codes used to produce the results of the article "Detailed description of the alongshore propagation of a
 coastal eddy with SWOT high-resolution altimetry".
 
-briefly explain the purpose of each script
+### figure1.ipynb – Study area
+This notebook defines the spatial domain of interest, displays Mediterranean bathymetry, and highlights the Algerian Basin.
+
+### figure2.ipynb – Qualitative comparison between SLA, SST, and chlorophyll-a
+This notebook compares SWOT and conventional altimetry SLA fields over independent tracer maps (SST anomaly and chlorophyll-a).
+
+### figure3.ipynb – Eddy Propagation and Evolution Along the Algerian Coast
+This notebook investigates the evolution and west–east propagation of the eddy along the Algerian coast using both SWOT Level-3 SSH and conventional altimetry.
+
+### figure4.ipynb - Spatial Distribution of Along-Track Altimetry Data
+This notebook analyzes the spatial distribution of along-track satellite altimetry measurements during a 20-day window centered on 29 May 2023.
+
+### figure5.ipynb - Eddy Tracking, Evolution, and Propagation Velocity from SWOT SLA
+This notebook processes SWOT SLA fields to extract eddy contours, fits ellipses to track their temporal evolution, computes eddy propagation velocities, and compares them with those from conventional altimetry, also interpreting the results through bathymetric metrics.
 
 
 ## Input data
