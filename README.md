@@ -21,6 +21,8 @@ This notebook analyzes the spatial distribution of along-track satellite altimet
 ### figure5.ipynb - Eddy Tracking, Evolution, and Propagation Velocity from SWOT SLA
 This notebook processes SWOT SLA fields to extract eddy contours, fits ellipses to track their temporal evolution, computes eddy propagation velocities, and compares them with those from conventional altimetry, also interpreting the results through bathymetric metrics.
 
+### pyeddytracker.ipynb - Application of pyeddytracker algorithm to conventional altimetry
+This notebook shows the application of pyeddytracker algorithm to conventional altimetry in order to get the centroids positions to be used to create figure 5.
 
 ## Input data
 
